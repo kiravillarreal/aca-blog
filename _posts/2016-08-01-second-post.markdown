@@ -1,7 +1,7 @@
 ---
-layout:posts
-title:"Second Post"
-date:2016-08-01 19:27:22
+layout: posts
+title: "Second Post"
+date: 2016-08-01 19:27:22 -600
 categories: coding
 ---
 
