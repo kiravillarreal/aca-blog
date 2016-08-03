@@ -1,6 +1,7 @@
 ---
 layout:post
-title:2016-08-01 19:27
+title:"Second Post"
+date:2016-08-01 19:27
 categories: coding
 ---
 
